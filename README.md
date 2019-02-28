@@ -6,7 +6,7 @@ An application built with Flask that allows users to buy sell and manage stock p
 ## Running
 Start Flask’s built-in web server (within finance/):
 
-~~~ flask run ~~~
+`flask run`
 
 Visit the URL outputted by flask to see the distribution code in action. You won’t be able to log in or register, though, just yet!
 
