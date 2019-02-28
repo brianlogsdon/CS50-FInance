@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+
+    <form action="/refill" method="post">
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="cash" placeholder="Cash to Add" type="text"/>
+        </div>
+        <button class="btn btn-primary" type="submit">refill</button>
+    </form>
+{% endblock %}
