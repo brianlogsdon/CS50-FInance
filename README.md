@@ -1,4 +1,4 @@
-# CS50-FInance
+# CS50-Finance
 
 An application built using Flask that allows users to buy sell and manage stock portfolios. I built this app while taking Harvard's CS50 online course. 
 
